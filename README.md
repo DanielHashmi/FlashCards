@@ -2,6 +2,9 @@
 <i>This is a simple FlashCard Project created by using HTML ,CSS , JS. Hope you guys like it</i>
 <br>
 <br>
+<b><i>Click the link to open the Website - https://danielhashmi.github.io/FlashCards/index.html.</i></b>
+<br>
+<br>
 <b>Instructions to use</b>
 <br>
 <br>
